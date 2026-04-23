@@ -1,5 +1,5 @@
 # Overview
-This repository holds the software implementation of the paper [Simulating images of radio galaxies with diffusion models](https://arxiv.org/abs/2410.07794). We implement a diffusion model to generate images of radio galaxies. The model is trained on data from the [LoTSS-DR2](https://lofar-surveys.org/dr2_release.html). If you use this software or parts of this software for your work, please cite the publication.
+This repository holds the software implementation of the paper [Simulating realistic radio continuum survey maps with diffusion models](https://arxiv.org/abs/2506.11715). We implement a diffusion model to generate images of radio galaxies. The model is trained on data from the [LoTSS-DR2](https://lofar-surveys.org/dr2_release.html). If you use this software or parts of this software for your work, please cite the publication.
 
 
 # Installation
